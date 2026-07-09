@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0012-integer-to-roman) |
+| [0389-find-the-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
 ## Array
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
@@ -39,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
