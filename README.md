@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0098-validate-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -412,12 +413,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0098-validate-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0098-validate-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -475,5 +478,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
