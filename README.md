@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 ## Tree
 |  |
