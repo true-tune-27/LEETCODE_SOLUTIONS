@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1025-divisor-game) |
+| [1925-count-square-sum-triples](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1925-count-square-sum-triples) |
 | [3516-find-closest-person](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3516-find-closest-person) |
 ## String
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0204-count-primes) |
+| [1925-count-square-sum-triples](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1925-count-square-sum-triples) |
 ## Number Theory
 |  |
 | ------- |
