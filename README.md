@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3745-maximize-expression-of-three-elements) |
 ## Two Pointers
 |  |
