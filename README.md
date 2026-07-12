@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1925-count-square-sum-triples](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1925-count-square-sum-triples) |
 | [2485-find-the-pivot-integer](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1773-count-items-matching-a-rule) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2085-count-common-words-with-one-occurrence) |
