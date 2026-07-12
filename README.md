@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1590-make-sum-divisible-by-p) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Math
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1773-count-items-matching-a-rule) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1389-create-target-array-in-the-given-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3813-vowel-consonant-score](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3813-vowel-consonant-score) |
 ## Brainteaser
 |  |
