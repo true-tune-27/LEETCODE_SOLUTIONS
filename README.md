@@ -94,5 +94,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0178-rank-scores) |
 | [0185-department-top-three-salaries](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
