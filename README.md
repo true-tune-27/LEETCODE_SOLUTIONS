@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0867-transpose-matrix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0867-transpose-matrix) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1389-create-target-array-in-the-given-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
