@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0389-find-the-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0771-jewels-and-stones) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1773-count-items-matching-a-rule](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1773-count-items-matching-a-rule) |
 | [3856-trim-trailing-vowels](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3856-trim-trailing-vowels) |
 ## Array
