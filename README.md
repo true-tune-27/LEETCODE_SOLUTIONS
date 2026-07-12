@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1025-divisor-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3370-smallest-number-with-all-set-bits) |
