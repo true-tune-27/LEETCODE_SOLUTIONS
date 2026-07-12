@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3668-restore-finishing-order) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3668-restore-finishing-order](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3668-restore-finishing-order) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3697-compute-decimal-representation](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3697-compute-decimal-representation) |
 | [3698-split-array-with-minimum-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3698-split-array-with-minimum-difference) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3745-maximize-expression-of-three-elements](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3745-maximize-expression-of-three-elements) |
