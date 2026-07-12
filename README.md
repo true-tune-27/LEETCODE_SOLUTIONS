@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0867-transpose-matrix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0867-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0912-sort-an-array) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1051-height-checker) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0912-sort-an-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0912-sort-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -573,4 +578,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0509-fibonacci-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
