@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1773-count-items-matching-a-rule) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1590-make-sum-divisible-by-p](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
