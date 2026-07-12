@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1773-count-items-matching-a-rule) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3280-convert-date-to-binary](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3280-convert-date-to-binary) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3813-vowel-consonant-score](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3813-vowel-consonant-score) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1389-create-target-array-in-the-given-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1929-concatenation-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3813-vowel-consonant-score](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3813-vowel-consonant-score) |
