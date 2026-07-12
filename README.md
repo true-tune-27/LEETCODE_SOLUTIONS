@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
@@ -444,5 +446,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
