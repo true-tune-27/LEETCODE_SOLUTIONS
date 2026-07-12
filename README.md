@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1952-three-divisors) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2413-smallest-even-multiple](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1952-three-divisors) |
+| [2413-smallest-even-multiple](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
