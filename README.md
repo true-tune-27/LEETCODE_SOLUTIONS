@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2769-find-the-maximum-achievable-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3100-water-bottles-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3100-water-bottles-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
