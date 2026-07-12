@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
