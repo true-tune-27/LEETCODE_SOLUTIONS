@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0204-count-primes) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
