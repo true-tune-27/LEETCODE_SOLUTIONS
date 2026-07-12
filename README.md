@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1773-count-items-matching-a-rule](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1773-count-items-matching-a-rule) |
+| [3813-vowel-consonant-score](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3813-vowel-consonant-score) |
 | [3856-trim-trailing-vowels](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3856-trim-trailing-vowels) |
 ## Array
 |  |
@@ -110,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [3813-vowel-consonant-score](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3813-vowel-consonant-score) |
 <!---LeetCode Topics End-->
