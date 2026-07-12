@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2007-find-original-array-from-doubled-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2057-smallest-index-with-equal-value](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2057-smallest-index-with-equal-value) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
