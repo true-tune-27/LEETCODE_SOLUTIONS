@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Dynamic Programming
