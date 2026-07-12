@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0771-jewels-and-stones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Math
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0178-rank-scores) |
 | [0185-department-top-three-salaries](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0185-department-top-three-salaries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
