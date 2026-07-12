@@ -91,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
