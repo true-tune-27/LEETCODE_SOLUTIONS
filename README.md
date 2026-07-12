@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -362,10 +363,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1025-divisor-game) |
 ## Backtracking
 |  |
