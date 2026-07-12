@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1773-count-items-matching-a-rule) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
