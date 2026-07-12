@@ -156,4 +156,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
+## Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
