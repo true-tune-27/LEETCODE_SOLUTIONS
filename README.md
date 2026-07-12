@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1925-count-square-sum-triples) |
 | [2485-find-the-pivot-integer](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2485-find-the-pivot-integer) |
+| [3100-water-bottles-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3100-water-bottles-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3280-convert-date-to-binary) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2257-count-unguarded-cells-in-the-grid) |
+| [3100-water-bottles-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3100-water-bottles-ii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3813-vowel-consonant-score](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3813-vowel-consonant-score) |
