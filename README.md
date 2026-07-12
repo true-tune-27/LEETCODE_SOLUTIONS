@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0709-to-lower-case) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1389-create-target-array-in-the-given-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1518-water-bottles](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1518-water-bottles) |
