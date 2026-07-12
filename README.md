@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Math
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0389-find-the-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [1773-count-items-matching-a-rule](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1773-count-items-matching-a-rule) |
 ## Array
 |  |
