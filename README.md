@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3813-vowel-consonant-score](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3813-vowel-consonant-score) |
 ## Brainteaser
 |  |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1590-make-sum-divisible-by-p) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2485-find-the-pivot-integer](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2485-find-the-pivot-integer) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
