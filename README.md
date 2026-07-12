@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2278-percentage-of-letter-in-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2278-percentage-of-letter-in-string) |
+| [2942-find-words-containing-character](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2942-find-words-containing-character) |
 | [3280-convert-date-to-binary](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3280-convert-date-to-binary) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2942-find-words-containing-character](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3151-special-array-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3151-special-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
