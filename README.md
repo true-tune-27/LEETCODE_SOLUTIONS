@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1590-make-sum-divisible-by-p](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1590-make-sum-divisible-by-p) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Math
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1389-create-target-array-in-the-given-order) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1590-make-sum-divisible-by-p](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1590-make-sum-divisible-by-p) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2485-find-the-pivot-integer](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3432-count-partitions-with-even-sum-difference) |
