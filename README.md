@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0520-detect-capital) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0067-add-binary) |
 | [1389-create-target-array-in-the-given-order](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1389-create-target-array-in-the-given-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1518-water-bottles](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1518-water-bottles) |
