@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0098-validate-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0700-search-in-a-binary-search-tree) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0098-validate-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0700-search-in-a-binary-search-tree) |
