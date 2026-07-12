@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2942-find-words-containing-character) |
 | [3280-convert-date-to-binary](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3280-convert-date-to-binary) |
+| [3340-check-balanced-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3340-check-balanced-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3813-vowel-consonant-score](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3813-vowel-consonant-score) |
