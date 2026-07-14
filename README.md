@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1672-richest-customer-wealth) |
+| [1706-where-will-the-ball-fall](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1706-where-will-the-ball-fall) |
 | [1732-find-the-highest-altitude](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1572-matrix-diagonal-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1672-richest-customer-wealth) |
+| [1706-where-will-the-ball-fall](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1706-where-will-the-ball-fall) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2614-prime-in-diagonal](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2614-prime-in-diagonal) |
 ## Stack
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1518-water-bottles](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1688-count-of-matches-in-tournament) |
+| [1706-where-will-the-ball-fall](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1706-where-will-the-ball-fall) |
 | [1929-concatenation-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
