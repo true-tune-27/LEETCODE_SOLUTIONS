@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1051-height-checker) |
+| [1260-shift-2d-grid](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1572-matrix-diagonal-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1389-create-target-array-in-the-given-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1518-water-bottles](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1518-water-bottles) |
