@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3370-smallest-number-with-all-set-bits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3516-find-closest-person](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Dynamic Programming
 |  |
