@@ -636,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String Matching
 |  |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
