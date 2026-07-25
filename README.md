@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3516-find-closest-person](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3516-find-closest-person) |
+| [3536-maximum-product-of-two-digits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3697-compute-decimal-representation) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3536-maximum-product-of-two-digits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
