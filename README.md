@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0011-container-with-most-water) |
+| [0397-integer-replacement](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0397-integer-replacement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
+| [0397-integer-replacement](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1025-divisor-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1025-divisor-game) |
@@ -684,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0509-fibonacci-number) |
 ## Merge Sort
 |  |
