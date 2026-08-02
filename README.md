@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0509-fibonacci-number) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0397-integer-replacement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
