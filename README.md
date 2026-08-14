@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3794-reverse-string-prefix) |
 | [3813-vowel-consonant-score](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3813-vowel-consonant-score) |
 | [3856-trim-trailing-vowels](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3856-trim-trailing-vowels) |
+| [3884-first-matching-character-from-both-ends](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3884-first-matching-character-from-both-ends) |
 ## Array
 |  |
 | ------- |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3794-reverse-string-prefix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3884-first-matching-character-from-both-ends](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
 | ------- |
