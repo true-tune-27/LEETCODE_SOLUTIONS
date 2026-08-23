@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-square-sum-triples](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1844-replace-all-digits-with-characters) |
+| [1927-sum-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1927-sum-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1927-sum-game) |
 | [2007-find-original-array-from-doubled-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2007-find-original-array-from-doubled-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1025-divisor-game) |
+| [1927-sum-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1927-sum-game) |
 ## Backtracking
 |  |
 | ------- |
