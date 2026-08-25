@@ -804,9 +804,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
