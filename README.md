@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1922-count-good-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1927-sum-game) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1773-count-items-matching-a-rule) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1486-xor-operation-in-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1720-decode-xored-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -615,10 +618,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
 | [0784-letter-case-permutation](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0784-letter-case-permutation) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0204-count-primes) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2427-number-of-common-factors) |
@@ -824,4 +829,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
