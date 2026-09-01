@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0866-prime-palindrome](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0866-prime-palindrome) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0258-add-digits) |
+| [0866-prime-palindrome](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0866-prime-palindrome) |
 | [1952-three-divisors](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2413-smallest-even-multiple) |
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0866-prime-palindrome) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Sieve Theory
 |  |
