@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0551-student-attendance-record-i) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
