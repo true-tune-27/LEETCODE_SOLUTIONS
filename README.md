@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-prime-palindrome](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0866-prime-palindrome) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1025-divisor-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0784-letter-case-permutation) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1446-consecutive-characters](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1446-consecutive-characters) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -830,11 +832,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Manacher
