@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
