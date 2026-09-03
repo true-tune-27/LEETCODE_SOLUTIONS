@@ -1,28 +1,24 @@
-class Solution {
-    static int build(int n)
-    {
-        int[] arr = new int[n+1];
-        Arrays.fill(arr,0);
-        for(int i = 2 ; i <= n ; i++)
-        {
-            for(int j = 2 ; j*i <= n ; j++)
-            {
-                arr[i*j] = 1;
-            }
-        }
-        int cnt =0 ;
-        for(int i = 2 ; i< n ;i++)
-        {
-            if(arr[i] == 0)
-            {
-                cnt++;
-            }
-        }
-        return cnt;
 
-
-    }
+  class Solution {
     public int countPrimes(int n) {
-        return build(n);
+        boolean[] composite = new boolean[n];
+
+        int count = 0;
+
+        for (int i = 2; i * i < n; i++) {
+            if (!composite[i]) {
+                for (int j = i * i; j < n; j += i) {
+                    composite[j] = true;
+                }
+            }
+        }
+
+        for (int i = 2; i < n; i++) {
+            if (!composite[i]) {
+                count++;
+            }
+        }
+
+        return count;
     }
 }
