@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3698-split-array-with-minimum-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3698-split-array-with-minimum-difference) |
+| [3904-smallest-stable-index-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3904-smallest-stable-index-ii) |
 ## Queue
 |  |
 | ------- |
