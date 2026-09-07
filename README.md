@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2523-closest-prime-numbers-in-range) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2652-sum-multiples) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -856,16 +858,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0866-prime-palindrome) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2523-closest-prime-numbers-in-range) |
 ## Newton's Method
 |  |
 | ------- |
