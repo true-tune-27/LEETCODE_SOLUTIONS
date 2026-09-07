@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1512-number-of-good-pairs](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1590-make-sum-divisible-by-p) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1518-water-bottles) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0784-letter-case-permutation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -748,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0523-continuous-subarray-sum) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1732-find-the-highest-altitude) |
