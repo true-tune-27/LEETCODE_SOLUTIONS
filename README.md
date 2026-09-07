@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2235-add-two-integers) |
+| [2317-maximum-xor-after-operations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2317-maximum-xor-after-operations) |
 | [2413-smallest-even-multiple](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2469-convert-the-temperature) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2257-count-unguarded-cells-in-the-grid) |
+| [2317-maximum-xor-after-operations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2317-maximum-xor-after-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2574-left-and-right-sum-differences) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2317-maximum-xor-after-operations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2317-maximum-xor-after-operations) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
