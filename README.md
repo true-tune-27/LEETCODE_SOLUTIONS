@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3668-restore-finishing-order](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3668-restore-finishing-order) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3354-make-array-elements-equal-to-zero](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3483-unique-3-digit-even-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3745-maximize-expression-of-three-elements](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3745-maximize-expression-of-three-elements) |
 ## Number Theory
 |  |
@@ -822,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
