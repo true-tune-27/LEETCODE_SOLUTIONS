@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
+| [0241-different-ways-to-add-parentheses](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0397-integer-replacement) |
@@ -849,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0390-elimination-game) |
@@ -866,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0509-fibonacci-number) |
 ## Merge Sort
@@ -949,4 +954,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0229-majority-element-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
