@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1260-shift-2d-grid) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1310-xor-queries-of-a-subarray](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1310-xor-queries-of-a-subarray) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1389-create-target-array-in-the-given-order) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0397-integer-replacement) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0784-letter-case-permutation](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0784-letter-case-permutation) |
+| [1310-xor-queries-of-a-subarray](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1310-xor-queries-of-a-subarray) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0523-continuous-subarray-sum) |
+| [1310-xor-queries-of-a-subarray](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1590-make-sum-divisible-by-p) |
