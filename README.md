@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1512-number-of-good-pairs](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1512-number-of-good-pairs) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0784-letter-case-permutation) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1096-brace-expansion-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1446-consecutive-characters](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1446-consecutive-characters) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1051-height-checker) |
+| [1096-brace-expansion-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0735-asteroid-collision) |
+| [1096-brace-expansion-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack
@@ -689,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
 | [0784-letter-case-permutation](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0784-letter-case-permutation) |
+| [1096-brace-expansion-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
@@ -770,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
