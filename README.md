@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2652-sum-multiples) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2769-find-the-maximum-achievable-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2614-prime-in-diagonal) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2678-number-of-senior-citizens](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2678-number-of-senior-citizens) |
 | [2733-neither-minimum-nor-maximum](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2733-neither-minimum-nor-maximum) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2614-prime-in-diagonal) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3115-maximum-prime-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3115-maximum-prime-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -930,12 +933,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Manacher
 |  |
 | ------- |
