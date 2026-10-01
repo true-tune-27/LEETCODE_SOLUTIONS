@@ -971,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Union-Find
