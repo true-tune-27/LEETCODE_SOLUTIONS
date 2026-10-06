@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -719,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0079-word-search) |
 | [0784-letter-case-permutation](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0784-letter-case-permutation) |
 | [1096-brace-expansion-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -782,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
