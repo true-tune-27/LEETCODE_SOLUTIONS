@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2317-maximum-xor-after-operations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2317-maximum-xor-after-operations) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2574-left-and-right-sum-differences) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2094-finding-3-digit-even-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2733-neither-minimum-nor-maximum](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1927-sum-game) |
 | [2007-find-original-array-from-doubled-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2007-find-original-array-from-doubled-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -862,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Linked List
