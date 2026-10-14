@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3697-compute-decimal-representation) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3745-maximize-expression-of-three-elements](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3745-maximize-expression-of-three-elements) |
