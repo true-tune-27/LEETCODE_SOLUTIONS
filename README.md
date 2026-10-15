@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2094-finding-3-digit-even-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2951-find-the-peaks) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -1020,4 +1022,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1998-gcd-sort-of-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1998-gcd-sort-of-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
