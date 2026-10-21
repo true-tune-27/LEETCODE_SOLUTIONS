@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0551-student-attendance-record-i) |
+| [0678-valid-parenthesis-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1025-divisor-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1025-divisor-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1021-remove-outermost-parentheses) |
@@ -1035,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
