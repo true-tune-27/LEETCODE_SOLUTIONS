@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0068-text-justification) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0044-wildcard-matching) |
 | [0397-integer-replacement](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -923,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
