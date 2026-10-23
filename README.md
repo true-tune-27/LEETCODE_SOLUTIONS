@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1688-count-of-matches-in-tournament](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1808-maximize-number-of-nice-divisors](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0866-prime-palindrome) |
+| [1808-maximize-number-of-nice-divisors](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1952-three-divisors](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1998-gcd-sort-of-an-array) |
@@ -941,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0509-fibonacci-number) |
+| [1808-maximize-number-of-nice-divisors](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1922-count-good-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2094-finding-3-digit-even-numbers) |
