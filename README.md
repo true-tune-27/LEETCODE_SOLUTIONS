@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1051-height-checker) |
+| [1254-number-of-closed-islands](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1260-shift-2d-grid) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1572-matrix-diagonal-sum) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
@@ -870,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
@@ -1064,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1998-gcd-sort-of-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1998-gcd-sort-of-an-array) |
 ## Binary Indexed Tree
