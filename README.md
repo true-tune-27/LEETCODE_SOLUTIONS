@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1882-process-tasks-using-servers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1882-process-tasks-using-servers) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1929-concatenation-of-array) |
@@ -933,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
