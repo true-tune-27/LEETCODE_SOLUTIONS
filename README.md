@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3354-make-array-elements-equal-to-zero](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -691,11 +692,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Counting
 |  |
 | ------- |
@@ -920,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Sliding Window
 |  |
@@ -929,11 +933,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Heap (Priority Queue)
 |  |
@@ -1108,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
