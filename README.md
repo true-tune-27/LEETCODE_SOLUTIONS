@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1998-gcd-sort-of-an-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2235-add-two-integers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2235-add-two-integers) |
 | [2317-maximum-xor-after-operations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2317-maximum-xor-after-operations) |
 | [2409-count-days-spent-together](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2409-count-days-spent-together) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2317-maximum-xor-after-operations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2317-maximum-xor-after-operations) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack
@@ -829,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1998-gcd-sort-of-an-array) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2413-smallest-even-multiple](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -1069,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1998-gcd-sort-of-an-array) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Manacher
@@ -1129,4 +1134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Least Common Multiple
+|  |
+| ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/2197-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
