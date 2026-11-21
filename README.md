@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3280-convert-date-to-binary) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3340-check-balanced-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -871,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -884,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/true-tune-27/LEETCODE_SOLUTIONS/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
